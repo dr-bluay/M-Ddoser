@@ -1,4 +1,4 @@
-# *** M-DDOSER ***
+# * M-DDOSER *
 
 A lightweight tool designed for authorized network stress testing and educational security research. It can be used to evaluate the resilience and performance of systems that you own or have explicit permission to test.
 
